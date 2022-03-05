@@ -1,0 +1,10 @@
+Link público objetivo https://miro.com/welcomeonboard/RFB2cTV6M1NNRHFTSUdIc2pvSG1UbmhuUDNqT2FTTmtqYXhSbTlIYVRES2Q4TURvV3MwSWNhRVJmcHJYN05aMHwzNDU4NzY0NTIwMjQ0ODQzNzM2?invite_link_id=710200238429
+
+Link buyer persona https://github.com/CarolinaQuirozU/Practicas-Intro-FrontEnd-Mision/blob/main/Detalles%20buyer%20persona%20-%20Abogabot.pdf
+
+Link requerimientos del proyecto https://github.com/CarolinaQuirozU/Practicas-Intro-FrontEnd-Mision/blob/main/Requerimientos%20del%20proyecto.doc
+
+Link wareframe UX https://github.com/CarolinaQuirozU/Practicas-Intro-FrontEnd-Mision/commit/c054fbe34a66c58adf391129d5ca567b214c50b6
+
+Link UI https://balsamiq.cloud/sexq5mq/pojjhw8
+	https://share.balsamiq.com/c/nUY3jHWsxkhRvFcK7SsRvm.png
